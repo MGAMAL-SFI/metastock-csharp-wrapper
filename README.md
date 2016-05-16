@@ -1,2 +1,2 @@
-# matestock-c--wrapper
+# metastock-csharp-wrapper
 c# wrapper for the metastock api
